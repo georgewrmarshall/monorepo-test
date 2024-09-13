@@ -5,8 +5,22 @@ __metadata:
   version: 8
   cacheKey: 10c0
 
+"design-tokens@npm:0.1.0, design-tokens@workspace:packages/design-tokens":
+  version: 0.0.0-use.local
+  resolution: "design-tokens@workspace:packages/design-tokens"
+  languageName: unknown
+  linkType: soft
+
 "monorepo-synchronized-test@workspace:.":
   version: 0.0.0-use.local
   resolution: "monorepo-synchronized-test@workspace:."
+  languageName: unknown
+  linkType: soft
+
+"ui@workspace:packages/ui":
+  version: 0.0.0-use.local
+  resolution: "ui@workspace:packages/ui"
+  dependencies:
+    design-tokens: "npm:0.1.0"
   languageName: unknown
   linkType: soft
