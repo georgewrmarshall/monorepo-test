@@ -7,10 +7,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-### Uncategorized
+## [0.2.0]
+
+### Added
+
+- feat: adding text color to design tokens
+
+## [0.1.0]
+
+### Changed
 
 - chore: adding auto-changelog to packages
-- feat: adding text color to design tokens
 - chore: initial release 0.1.0
 - feat: adding ui and design-token packages
 
