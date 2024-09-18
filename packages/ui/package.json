@@ -1,9 +1,13 @@
 {
-  "name": "ui",
+  "name": "@georgewrmarshall/ui-test",
   "version": "0.1.0",
   "main": "index.js",
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
-    "design-tokens": "0.1.0"
+    "@georgewrmarshall/design-tokens-test": "0.1.0",
+    "react": "^18.3.1"
   }
 }

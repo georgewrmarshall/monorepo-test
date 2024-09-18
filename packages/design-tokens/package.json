@@ -1,6 +1,9 @@
 {
-  "name": "design-tokens",
+  "name": "@georgewrmarshall/design-tokens-test",
   "version": "0.1.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
 }
