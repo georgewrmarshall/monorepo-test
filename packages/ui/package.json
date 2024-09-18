@@ -1,0 +1,17 @@
+{
+  "name": "@georgewrmarshall/ui-test",
+  "version": "0.2.0",
+  "main": "index.js",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "changelog:update": "yarn run changelog:update",
+    "changelog:validate": "yarn run changelog:validate"
+  },
+  "dependencies": {
+    "@georgewrmarshall/design-tokens-test": "0.2.0",
+    "react": "^18.3.1"
+  }
+}
