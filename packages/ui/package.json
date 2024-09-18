@@ -1,6 +1,6 @@
 {
   "name": "@georgewrmarshall/ui-test",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "index.js",
   "license": "MIT",
   "publishConfig": {
@@ -11,7 +11,7 @@
     "changelog:validate": "yarn run changelog:validate"
   },
   "dependencies": {
-    "@georgewrmarshall/design-tokens-test": "0.1.0",
+    "@georgewrmarshall/design-tokens-test": "0.2.0",
     "react": "^18.3.1"
   }
 }

@@ -1,7 +1,7 @@
 {
   "name": "@georgewrmarshall/monorepo-synchronized-test",
   "private": true,
-  "version": "0.1.0",
+  "version": "1.0.0",
   "packageManager": "yarn@4.3.1",
   "workspaces": [
     "packages/*"

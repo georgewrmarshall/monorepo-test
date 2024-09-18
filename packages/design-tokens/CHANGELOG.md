@@ -7,4 +7,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-[Unreleased]: https://github.com/georgewrmarshall/monorepo-synchronized-test/tree/main/packages/design-tokens
+## [0.2.0]
+
+### Added
+
+- feat: adding text color to design tokens
+
+## [0.1.0]
+
+### Changed
+
+- chore: adding auto-changelog to packages
+- chore: initial release 0.1.0
+- feat: adding ui and design-token packages
+
+[Unreleased]: https://github.com/georgewrmarshall/monorepo-synchronized-test/
