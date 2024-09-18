@@ -4,5 +4,6 @@ module.exports = {
     primary: "#007BFF",
     secondary: "#6C757D",
     text: "#212529",
+    background: "#F8F9FA",
   },
 };
