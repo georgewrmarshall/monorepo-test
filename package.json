@@ -1,5 +1,5 @@
 {
-  "name": "@georgewrmarshall/monorepo-synchronized-test",
+  "name": "@georgewrmarshall/monorepo-test",
   "private": true,
   "version": "1.0.0",
   "packageManager": "yarn@4.3.1",

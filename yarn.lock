@@ -53,9 +53,9 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@georgewrmarshall/monorepo-synchronized-test@workspace:.":
+"@georgewrmarshall/monorepo-test@workspace:.":
   version: 0.0.0-use.local
-  resolution: "@georgewrmarshall/monorepo-synchronized-test@workspace:."
+  resolution: "@georgewrmarshall/monorepo-test@workspace:."
   dependencies:
     "@metamask/auto-changelog": "npm:^3.4.4"
     "@metamask/create-release-branch": "npm:^3.0.1"

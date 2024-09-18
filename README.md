@@ -1,2 +1,2 @@
-# monorepo-synchronized-test
+# monorepo-test
 Testing synchronized releases 
