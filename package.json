@@ -1,0 +1,19 @@
+{
+  "name": "@georgewrmarshall/monorepo-test",
+  "private": true,
+  "version": "2.0.0",
+  "packageManager": "yarn@4.3.1",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "changelog:update": "yarn workspaces foreach --all --no-private --parallel --interlaced --verbose run changelog:update",
+    "changelog:validate": "yarn workspaces foreach --all --no-private --parallel --interlaced --verbose run changelog:validate",
+    "release": "create-release-branch"
+  },
+  "devDependencies": {
+    "@metamask/auto-changelog": "^3.4.4",
+    "@metamask/create-release-branch": "^3.0.1",
+    "prettier": "^3.3.3"
+  }
+}
