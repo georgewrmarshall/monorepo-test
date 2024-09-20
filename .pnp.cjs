@@ -90,13 +90,6 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@georgewrmarshall/design-tokens-test", [\
-      ["npm:0.2.0", {\
-        "packageLocation": "../../.yarn/berry/cache/@georgewrmarshall-design-tokens-test-npm-0.2.0-b2f88c75a9-10c0.zip/node_modules/@georgewrmarshall/design-tokens-test/",\
-        "packageDependencies": [\
-          ["@georgewrmarshall/design-tokens-test", "npm:0.2.0"]\
-        ],\
-        "linkType": "HARD"\
-      }],\
       ["workspace:packages/design-tokens", {\
         "packageLocation": "./packages/design-tokens/",\
         "packageDependencies": [\
@@ -122,7 +115,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./packages/ui/",\
         "packageDependencies": [\
           ["@georgewrmarshall/ui-test", "workspace:packages/ui"],\
-          ["@georgewrmarshall/design-tokens-test", "npm:0.2.0"],\
+          ["@georgewrmarshall/design-tokens-test", "workspace:packages/design-tokens"],\
           ["react", "npm:18.3.1"]\
         ],\
         "linkType": "SOFT"\
