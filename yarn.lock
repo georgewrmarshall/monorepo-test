@@ -47,7 +47,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@georgewrmarshall/design-tokens-test@npm:0.2.0, @georgewrmarshall/design-tokens-test@workspace:packages/design-tokens":
+"@georgewrmarshall/design-tokens-test@npm:0.2.0":
+  version: 0.2.0
+  resolution: "@georgewrmarshall/design-tokens-test@npm:0.2.0"
+  checksum: 10c0/9eb62f706a73e86e529abf357db0262a3baf4f43c4f5754d852f740c3f44eef17132026f4066a490aa9b30d4eed2c2311217024999f1900355867fd7086819be
+  languageName: node
+  linkType: hard
+
+"@georgewrmarshall/design-tokens-test@workspace:packages/design-tokens":
   version: 0.0.0-use.local
   resolution: "@georgewrmarshall/design-tokens-test@workspace:packages/design-tokens"
   languageName: unknown
