@@ -6,5 +6,6 @@ module.exports = {
     text: "#212529",
     background: "#F8F9FA",
     error: "#DC3545",
+    success: "#28A745",
   },
 };

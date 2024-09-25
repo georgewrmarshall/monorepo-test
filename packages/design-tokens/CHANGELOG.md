@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.5.0]
+
+### Added
+
+- feat: upgrading design tokens with success token then using it in button and bumping version numbers in both packages
+
 ## [0.4.0]
 
 ### Added
