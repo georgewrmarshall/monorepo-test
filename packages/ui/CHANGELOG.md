@@ -7,11 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-### Uncategorized
+## [0.2.0]
+
+### Changed
 
 - fix: bumping version of design tokens from 0.2.0 to 0.3.0 in button
-- chore: updating changelog
-- chore: updating changelog
 - chore; updating packages
 
 ## [0.1.1]
@@ -26,6 +26,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Initial release of ui
 
-[Unreleased]: https://github.com/georgewrmarshall/monorepo-synchronized-test/compare/@georgewrmarshall/ui-test@0.1.1...HEAD
+[Unreleased]: https://github.com/georgewrmarshall/monorepo-synchronized-test/compare/@georgewrmarshall/ui-test@0.2.0...HEAD
+[0.2.0]: https://github.com/georgewrmarshall/monorepo-synchronized-test/compare/@georgewrmarshall/ui-test@0.1.1...@georgewrmarshall/ui-test@0.2.0
 [0.1.1]: https://github.com/georgewrmarshall/monorepo-synchronized-test/compare/@georgewrmarshall/ui-test@0.1.0...@georgewrmarshall/ui-test@0.1.1
 [0.1.0]: https://github.com/georgewrmarshall/monorepo-synchronized-test/releases/tag/@georgewrmarshall/ui-test@0.1.0
