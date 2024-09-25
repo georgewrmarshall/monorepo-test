@@ -38,7 +38,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./",\
         "packageDependencies": [\
           ["@metamask/auto-changelog", "npm:3.4.4"],\
-          ["@metamask/create-release-branch", "virtual:449c18d436c46185ce2c6da1f2311fde2db0c1273106d47939dcd226197df9cb3d35ee053727ca896f2ae943d328988f491340014531fa23b37620d3f358ec0a#npm:3.0.1"],\
+          ["@metamask/create-release-branch", "virtual:449c18d436c46185ce2c6da1f2311fde2db0c1273106d47939dcd226197df9cb3d35ee053727ca896f2ae943d328988f491340014531fa23b37620d3f358ec0a#npm:4.0.0"],\
           ["prettier", "npm:3.3.3"]\
         ],\
         "linkType": "SOFT"\
@@ -90,6 +90,13 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@georgewrmarshall/design-tokens-test", [\
+      ["npm:0.3.0", {\
+        "packageLocation": "../../.yarn/berry/cache/@georgewrmarshall-design-tokens-test-npm-0.3.0-5390ad034f-10c0.zip/node_modules/@georgewrmarshall/design-tokens-test/",\
+        "packageDependencies": [\
+          ["@georgewrmarshall/design-tokens-test", "npm:0.3.0"]\
+        ],\
+        "linkType": "HARD"\
+      }],\
       ["workspace:packages/design-tokens", {\
         "packageLocation": "./packages/design-tokens/",\
         "packageDependencies": [\
@@ -104,7 +111,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["@georgewrmarshall/monorepo-test", "workspace:."],\
           ["@metamask/auto-changelog", "npm:3.4.4"],\
-          ["@metamask/create-release-branch", "virtual:449c18d436c46185ce2c6da1f2311fde2db0c1273106d47939dcd226197df9cb3d35ee053727ca896f2ae943d328988f491340014531fa23b37620d3f358ec0a#npm:3.0.1"],\
+          ["@metamask/create-release-branch", "virtual:449c18d436c46185ce2c6da1f2311fde2db0c1273106d47939dcd226197df9cb3d35ee053727ca896f2ae943d328988f491340014531fa23b37620d3f358ec0a#npm:4.0.0"],\
           ["prettier", "npm:3.3.3"]\
         ],\
         "linkType": "SOFT"\
@@ -115,7 +122,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./packages/ui/",\
         "packageDependencies": [\
           ["@georgewrmarshall/ui-test", "workspace:packages/ui"],\
-          ["@georgewrmarshall/design-tokens-test", "workspace:packages/design-tokens"],\
+          ["@georgewrmarshall/design-tokens-test", "npm:0.3.0"],\
           ["react", "npm:18.3.1"]\
         ],\
         "linkType": "SOFT"\
@@ -134,20 +141,8 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@metamask/auto-changelog", [\
-      ["npm:3.3.0", {\
-        "packageLocation": "../../.yarn/berry/cache/@metamask-auto-changelog-npm-3.3.0-517f94219e-10c0.zip/node_modules/@metamask/auto-changelog/",\
-        "packageDependencies": [\
-          ["@metamask/auto-changelog", "npm:3.3.0"],\
-          ["diff", "npm:5.2.0"],\
-          ["execa", "npm:5.1.1"],\
-          ["prettier", "npm:2.8.8"],\
-          ["semver", "npm:7.6.3"],\
-          ["yargs", "npm:17.7.2"]\
-        ],\
-        "linkType": "HARD"\
-      }],\
       ["npm:3.4.4", {\
-        "packageLocation": "../../.yarn/berry/cache/@metamask-auto-changelog-npm-3.4.4-1d5abe7f37-10c0.zip/node_modules/@metamask/auto-changelog/",\
+        "packageLocation": "./.yarn/unplugged/@metamask-auto-changelog-npm-3.4.4-1d5abe7f37/node_modules/@metamask/auto-changelog/",\
         "packageDependencies": [\
           ["@metamask/auto-changelog", "npm:3.4.4"],\
           ["diff", "npm:5.2.0"],\
@@ -157,22 +152,46 @@ const RAW_RUNTIME_STATE =
           ["yargs", "npm:17.7.2"]\
         ],\
         "linkType": "HARD"\
-      }]\
-    ]],\
-    ["@metamask/create-release-branch", [\
-      ["npm:3.0.1", {\
-        "packageLocation": "../../.yarn/berry/cache/@metamask-create-release-branch-npm-3.0.1-3aa5ff5235-10c0.zip/node_modules/@metamask/create-release-branch/",\
+      }],\
+      ["npm:4.0.0", {\
+        "packageLocation": "../../.yarn/berry/cache/@metamask-auto-changelog-npm-4.0.0-77a6509095-10c0.zip/node_modules/@metamask/auto-changelog/",\
         "packageDependencies": [\
-          ["@metamask/create-release-branch", "npm:3.0.1"]\
+          ["@metamask/auto-changelog", "npm:4.0.0"]\
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:449c18d436c46185ce2c6da1f2311fde2db0c1273106d47939dcd226197df9cb3d35ee053727ca896f2ae943d328988f491340014531fa23b37620d3f358ec0a#npm:3.0.1", {\
-        "packageLocation": "./.yarn/__virtual__/@metamask-create-release-branch-virtual-1108b1abd1/3/.yarn/berry/cache/@metamask-create-release-branch-npm-3.0.1-3aa5ff5235-10c0.zip/node_modules/@metamask/create-release-branch/",\
+      ["virtual:76f9aaf9a13348a6e7528af00962473a4bc410de34e76d0d599e4a148220987e249d38be71b15c427b8136bc5dcac628a16bfb4a9e36412b23a271eb28165acc#npm:4.0.0", {\
+        "packageLocation": "./.yarn/__virtual__/@metamask-auto-changelog-virtual-e76a0ae99f/3/.yarn/berry/cache/@metamask-auto-changelog-npm-4.0.0-77a6509095-10c0.zip/node_modules/@metamask/auto-changelog/",\
         "packageDependencies": [\
-          ["@metamask/create-release-branch", "virtual:449c18d436c46185ce2c6da1f2311fde2db0c1273106d47939dcd226197df9cb3d35ee053727ca896f2ae943d328988f491340014531fa23b37620d3f358ec0a#npm:3.0.1"],\
+          ["@metamask/auto-changelog", "virtual:76f9aaf9a13348a6e7528af00962473a4bc410de34e76d0d599e4a148220987e249d38be71b15c427b8136bc5dcac628a16bfb4a9e36412b23a271eb28165acc#npm:4.0.0"],\
+          ["@types/prettier", null],\
+          ["diff", "npm:5.2.0"],\
+          ["execa", "npm:5.1.1"],\
+          ["prettier", "npm:3.3.3"],\
+          ["semver", "npm:7.6.3"],\
+          ["yargs", "npm:17.7.2"]\
+        ],\
+        "packagePeers": [\
+          "@types/prettier",\
+          "prettier"\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@metamask/create-release-branch", [\
+      ["npm:4.0.0", {\
+        "packageLocation": "../../.yarn/berry/cache/@metamask-create-release-branch-npm-4.0.0-50792f440d-10c0.zip/node_modules/@metamask/create-release-branch/",\
+        "packageDependencies": [\
+          ["@metamask/create-release-branch", "npm:4.0.0"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
+      ["virtual:449c18d436c46185ce2c6da1f2311fde2db0c1273106d47939dcd226197df9cb3d35ee053727ca896f2ae943d328988f491340014531fa23b37620d3f358ec0a#npm:4.0.0", {\
+        "packageLocation": "./.yarn/__virtual__/@metamask-create-release-branch-virtual-76f9aaf9a1/3/.yarn/berry/cache/@metamask-create-release-branch-npm-4.0.0-50792f440d-10c0.zip/node_modules/@metamask/create-release-branch/",\
+        "packageDependencies": [\
+          ["@metamask/create-release-branch", "virtual:449c18d436c46185ce2c6da1f2311fde2db0c1273106d47939dcd226197df9cb3d35ee053727ca896f2ae943d328988f491340014531fa23b37620d3f358ec0a#npm:4.0.0"],\
           ["@metamask/action-utils", "npm:1.1.1"],\
-          ["@metamask/auto-changelog", "npm:3.3.0"],\
+          ["@metamask/auto-changelog", "virtual:76f9aaf9a13348a6e7528af00962473a4bc410de34e76d0d599e4a148220987e249d38be71b15c427b8136bc5dcac628a16bfb4a9e36412b23a271eb28165acc#npm:4.0.0"],\
           ["@metamask/utils", "npm:9.2.1"],\
           ["@types/prettier", null],\
           ["debug", "virtual:ca3fd8b558d155ebf16f13b8e5e99b55215a96846bf40b9fd4e646585817ddbcf9ac0e8611ca76e92a3441bfab67edc530cbb4ca7a1e979083d748f666f4f366#npm:4.3.7"],\

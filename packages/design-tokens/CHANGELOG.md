@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.4.0]
+
+### Added
+
+- adding error token
+
 ## [0.2.0]
 
 ### Added
@@ -19,6 +25,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Initial release of design tokens
 
-[Unreleased]: https://github.com/georgewrmarshall/monorepo-synchronized-test/compare/@georgewrmarshall/design-tokens-test@0.2.0...HEAD
+[Unreleased]: https://github.com/georgewrmarshall/monorepo-synchronized-test/compare/@georgewrmarshall/design-tokens-test@0.4.0...HEAD
+[0.4.0]: https://github.com/georgewrmarshall/monorepo-synchronized-test/compare/@georgewrmarshall/design-tokens-test@0.2.0...@georgewrmarshall/design-tokens-test@0.4.0
 [0.2.0]: https://github.com/georgewrmarshall/monorepo-synchronized-test/compare/@georgewrmarshall/design-tokens-test@0.1.0...@georgewrmarshall/design-tokens-test@0.2.0
 [0.1.0]: https://github.com/georgewrmarshall/monorepo-synchronized-test/releases/tag/@georgewrmarshall/design-tokens-test@0.1.0
