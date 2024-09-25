@@ -13,7 +13,12 @@
   },
   "devDependencies": {
     "@metamask/auto-changelog": "^3.4.4",
-    "@metamask/create-release-branch": "^3.0.1",
+    "@metamask/create-release-branch": "^4.0.0",
     "prettier": "^3.3.3"
+  },
+  "dependenciesMeta": {
+    "@metamask/auto-changelog@3.4.4": {
+      "unplugged": true
+    }
   }
 }
