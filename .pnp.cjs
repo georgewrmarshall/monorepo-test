@@ -150,7 +150,7 @@ const RAW_RUNTIME_STATE =
     ]],\
     ["@metamask/auto-changelog", [\
       ["npm:3.4.4", {\
-        "packageLocation": "./.yarn/unplugged/@metamask-auto-changelog-npm-3.4.4-1d5abe7f37/node_modules/@metamask/auto-changelog/",\
+        "packageLocation": "../../.yarn/berry/cache/@metamask-auto-changelog-npm-3.4.4-1d5abe7f37-10c0.zip/node_modules/@metamask/auto-changelog/",\
         "packageDependencies": [\
           ["@metamask/auto-changelog", "npm:3.4.4"],\
           ["diff", "npm:5.2.0"],\

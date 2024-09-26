@@ -1,7 +1,7 @@
 {
   "name": "@georgewrmarshall/monorepo-test",
   "private": true,
-  "version": "6.0.0",
+  "version": "7.0.0",
   "packageManager": "yarn@4.3.1",
   "workspaces": [
     "app",
@@ -16,10 +16,5 @@
     "@metamask/auto-changelog": "^3.4.4",
     "@metamask/create-release-branch": "^4.0.0",
     "prettier": "^3.3.3"
-  },
-  "dependenciesMeta": {
-    "@metamask/auto-changelog@3.4.4": {
-      "unplugged": true
-    }
   }
 }

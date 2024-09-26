@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.1]
+
+### Changed
+
+- chore: updating app to use npm version instead of workspace version
+
 ## [0.2.0]
 
 ### Changed
@@ -14,5 +20,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - chore: updating changelog
 - chore: adding changelog for app and fixing repo links
 
-[Unreleased]: https://github.com/georgewrmarshall/monorepo-synchronized-test/compare/@georgewrmarshall/app@0.2.0...HEAD
+[Unreleased]: https://github.com/georgewrmarshall/monorepo-synchronized-test/compare/@georgewrmarshall/app@0.2.1...HEAD
+[0.2.1]: https://github.com/georgewrmarshall/monorepo-synchronized-test/compare/@georgewrmarshall/app@0.2.0...@georgewrmarshall/app@0.2.1
 [0.2.0]: https://github.com/georgewrmarshall/monorepo-synchronized-test/releases/tag/@georgewrmarshall/app@0.2.0
