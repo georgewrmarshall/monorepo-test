@@ -1,0 +1,8 @@
+{
+  "name": "@georgewrmarshall/app",
+  "version": "0.2.0",
+  "main": "index.js",
+  "dependencies": {
+    "@georgewrmarshall/ui-test": "workspace:^"
+  }
+}

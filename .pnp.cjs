@@ -15,6 +15,10 @@ const RAW_RUNTIME_STATE =
       "reference": "workspace:."\
     },\
     {\
+      "name": "@georgewrmarshall/app",\
+      "reference": "workspace:app"\
+    },\
+    {\
       "name": "@georgewrmarshall/design-tokens-test",\
       "reference": "workspace:packages/design-tokens"\
     },\
@@ -26,6 +30,7 @@ const RAW_RUNTIME_STATE =
   "enableTopLevelFallback": true,\
   "ignorePatternData": "(^(?:\\\\.yarn\\\\/sdks(?:\\\\/(?!\\\\.{1,2}(?:\\\\/|$))(?:(?:(?!(?:^|\\\\/)\\\\.{1,2}(?:\\\\/|$)).)*?)|$))$)",\
   "fallbackExclusionList": [\
+    ["@georgewrmarshall/app", ["workspace:app"]],\
     ["@georgewrmarshall/design-tokens-test", ["workspace:packages/design-tokens"]],\
     ["@georgewrmarshall/monorepo-test", ["workspace:."]],\
     ["@georgewrmarshall/ui-test", ["workspace:packages/ui"]]\
@@ -87,6 +92,16 @@ const RAW_RUNTIME_STATE =
           ["micro-ftch", "npm:0.3.1"]\
         ],\
         "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@georgewrmarshall/app", [\
+      ["workspace:app", {\
+        "packageLocation": "./app/",\
+        "packageDependencies": [\
+          ["@georgewrmarshall/app", "workspace:app"],\
+          ["@georgewrmarshall/ui-test", "workspace:packages/ui"]\
+        ],\
+        "linkType": "SOFT"\
       }]\
     ]],\
     ["@georgewrmarshall/design-tokens-test", [\

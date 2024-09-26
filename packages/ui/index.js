@@ -6,4 +6,4 @@ const Button = () => {
   console.log(`Button styled with success color: ${colors.success}`);
 };
 
-Button();
+module.exports = { Button };

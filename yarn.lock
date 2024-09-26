@@ -47,6 +47,14 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@georgewrmarshall/app@workspace:app":
+  version: 0.0.0-use.local
+  resolution: "@georgewrmarshall/app@workspace:app"
+  dependencies:
+    "@georgewrmarshall/ui-test": "workspace:^"
+  languageName: unknown
+  linkType: soft
+
 "@georgewrmarshall/design-tokens-test@npm:0.5.0, @georgewrmarshall/design-tokens-test@workspace:packages/design-tokens":
   version: 0.0.0-use.local
   resolution: "@georgewrmarshall/design-tokens-test@workspace:packages/design-tokens"
@@ -66,7 +74,7 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@georgewrmarshall/ui-test@workspace:packages/ui":
+"@georgewrmarshall/ui-test@workspace:^, @georgewrmarshall/ui-test@workspace:packages/ui":
   version: 0.0.0-use.local
   resolution: "@georgewrmarshall/ui-test@workspace:packages/ui"
   dependencies:
