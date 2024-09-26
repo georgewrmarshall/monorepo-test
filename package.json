@@ -1,7 +1,7 @@
 {
   "name": "@georgewrmarshall/monorepo-test",
   "private": true,
-  "version": "5.0.0",
+  "version": "6.0.0",
   "packageManager": "yarn@4.3.1",
   "workspaces": [
     "app",

@@ -7,9 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.2]
+
 ### Uncategorized
 
-- chore: adding changelog for app and fixing repo links
 - fix: exporting button from ui
 
 ## [0.2.1]
@@ -37,7 +38,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Initial release of ui
 
-[Unreleased]: https://github.com/georgewrmarshall/monorepo-synchronized-test/compare/@georgewrmarshall/ui-test@0.2.1...HEAD
+[Unreleased]: https://github.com/georgewrmarshall/monorepo-synchronized-test/compare/@georgewrmarshall/ui-test@0.2.2...HEAD
+[0.2.2]: https://github.com/georgewrmarshall/monorepo-synchronized-test/compare/@georgewrmarshall/ui-test@0.2.1...@georgewrmarshall/ui-test@0.2.2
 [0.2.1]: https://github.com/georgewrmarshall/monorepo-synchronized-test/compare/@georgewrmarshall/ui-test@0.2.0...@georgewrmarshall/ui-test@0.2.1
 [0.2.0]: https://github.com/georgewrmarshall/monorepo-synchronized-test/compare/@georgewrmarshall/ui-test@0.1.1...@georgewrmarshall/ui-test@0.2.0
 [0.1.1]: https://github.com/georgewrmarshall/monorepo-synchronized-test/compare/@georgewrmarshall/ui-test@0.1.0...@georgewrmarshall/ui-test@0.1.1
