@@ -7,4 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-[Unreleased]: https://github.com/georgewrmarshall/monorepo-test/
+### Uncategorized
+
+- chore: updating chagngelog
+- chore: adding changelog for app and fixing repo links
+
+[Unreleased]: https://github.com/georgewrmarshall/monorepo-synchronized-test/
