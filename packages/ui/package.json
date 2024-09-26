@@ -11,7 +11,7 @@
     "changelog:validate": "yarn run changelog:validate"
   },
   "dependencies": {
-    "@georgewrmarshall/design-tokens-test": "0.5.0",
+    "@georgewrmarshall/design-tokens-test": "workspace:^",
     "react": "^18.3.1"
   }
 }
