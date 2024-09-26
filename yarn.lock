@@ -55,7 +55,7 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@georgewrmarshall/design-tokens-test@npm:0.5.0, @georgewrmarshall/design-tokens-test@workspace:packages/design-tokens":
+"@georgewrmarshall/design-tokens-test@workspace:^, @georgewrmarshall/design-tokens-test@workspace:packages/design-tokens":
   version: 0.0.0-use.local
   resolution: "@georgewrmarshall/design-tokens-test@workspace:packages/design-tokens"
   languageName: unknown
@@ -75,7 +75,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@georgewrmarshall/ui-test@workspace:packages/ui"
   dependencies:
-    "@georgewrmarshall/design-tokens-test": "npm:0.5.0"
+    "@georgewrmarshall/design-tokens-test": "workspace:^"
     react: "npm:^18.3.1"
   languageName: unknown
   linkType: soft
