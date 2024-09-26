@@ -68,9 +68,6 @@ __metadata:
     "@metamask/auto-changelog": "npm:^3.4.4"
     "@metamask/create-release-branch": "npm:^4.0.0"
     prettier: "npm:^3.3.3"
-  dependenciesMeta:
-    "@metamask/auto-changelog@3.4.4":
-      unplugged: true
   languageName: unknown
   linkType: soft
 
