@@ -7,5 +7,6 @@ module.exports = {
     background: "#F8F9FA",
     error: "#DC3545",
     success: "#28A745",
+    warning: "#FFC107",
   },
 };
