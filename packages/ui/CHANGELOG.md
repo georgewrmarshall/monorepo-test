@@ -44,10 +44,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Initial release of ui
 
-[Unreleased]: https://github.com/georgewrmarshall/monorepo-synchronized-test/compare/@georgewrmarshall/ui-test@0.2.3...HEAD
-[0.2.3]: https://github.com/georgewrmarshall/monorepo-synchronized-test/compare/@georgewrmarshall/ui-test@0.2.2...@georgewrmarshall/ui-test@0.2.3
-[0.2.2]: https://github.com/georgewrmarshall/monorepo-synchronized-test/compare/@georgewrmarshall/ui-test@0.2.1...@georgewrmarshall/ui-test@0.2.2
-[0.2.1]: https://github.com/georgewrmarshall/monorepo-synchronized-test/compare/@georgewrmarshall/ui-test@0.2.0...@georgewrmarshall/ui-test@0.2.1
-[0.2.0]: https://github.com/georgewrmarshall/monorepo-synchronized-test/compare/@georgewrmarshall/ui-test@0.1.1...@georgewrmarshall/ui-test@0.2.0
-[0.1.1]: https://github.com/georgewrmarshall/monorepo-synchronized-test/compare/@georgewrmarshall/ui-test@0.1.0...@georgewrmarshall/ui-test@0.1.1
-[0.1.0]: https://github.com/georgewrmarshall/monorepo-synchronized-test/releases/tag/@georgewrmarshall/ui-test@0.1.0
+[Unreleased]: https://github.com/georgewrmarshall/monorepo-test/compare/@georgewrmarshall/ui-test@0.2.3...HEAD
+[0.2.3]: https://github.com/georgewrmarshall/monorepo-test/compare/@georgewrmarshall/ui-test@0.2.2...@georgewrmarshall/ui-test@0.2.3
+[0.2.2]: https://github.com/georgewrmarshall/monorepo-test/compare/@georgewrmarshall/ui-test@0.2.1...@georgewrmarshall/ui-test@0.2.2
+[0.2.1]: https://github.com/georgewrmarshall/monorepo-test/compare/@georgewrmarshall/ui-test@0.2.0...@georgewrmarshall/ui-test@0.2.1
+[0.2.0]: https://github.com/georgewrmarshall/monorepo-test/compare/@georgewrmarshall/ui-test@0.1.1...@georgewrmarshall/ui-test@0.2.0
+[0.1.1]: https://github.com/georgewrmarshall/monorepo-test/compare/@georgewrmarshall/ui-test@0.1.0...@georgewrmarshall/ui-test@0.1.1
+[0.1.0]: https://github.com/georgewrmarshall/monorepo-test/releases/tag/@georgewrmarshall/ui-test@0.1.0
