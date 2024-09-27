@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [8.0.0]
+
+- chore: migrating to fixed release strategy
+
 ## [0.5.0]
 
 ### Added
@@ -31,7 +35,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Initial release of design tokens
 
-[Unreleased]: https://github.com/georgewrmarshall/monorepo-test/compare/@georgewrmarshall/design-tokens-test@0.4.0...HEAD
+[Unreleased]: https://github.com/georgewrmarshall/monorepo-test/compare/@georgewrmarshall/design-tokens-test@8.0.0...HEAD
+[0.8.0]: https://github.com/georgewrmarshall/monorepo-test/compare/@georgewrmarshall/design-tokens-test@0.4.0...@georgewrmarshall/design-tokens-test@0.8.0
 [0.4.0]: https://github.com/georgewrmarshall/monorepo-test/compare/@georgewrmarshall/design-tokens-test@0.2.0...@georgewrmarshall/design-tokens-test@0.4.0
 [0.2.0]: https://github.com/georgewrmarshall/monorepo-test/compare/@georgewrmarshall/design-tokens-test@0.1.0...@georgewrmarshall/design-tokens-test@0.2.0
 [0.1.0]: https://github.com/georgewrmarshall/monorepo-test/releases/tag/@georgewrmarshall/design-tokens-test@0.1.0
