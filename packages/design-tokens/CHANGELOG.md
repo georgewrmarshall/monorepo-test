@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Uncategorized
+
+- chore: fixing changelog to follow template and adding missing category
+- feat: adding info token after release strategy migration to fixed releases
+
 ## [8.0.0]
 
 ### Changed
@@ -37,8 +42,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Initial release of design tokens
 
-[Unreleased]: https://github.com/georgewrmarshall/monorepo-test/compare/@georgewrmarshall/design-tokens-test@8.0.0...HEAD
-[0.8.0]: https://github.com/georgewrmarshall/monorepo-test/compare/@georgewrmarshall/design-tokens-test@0.4.0...@georgewrmarshall/design-tokens-test@0.8.0
-[0.4.0]: https://github.com/georgewrmarshall/monorepo-test/compare/@georgewrmarshall/design-tokens-test@0.2.0...@georgewrmarshall/design-tokens-test@0.4.0
-[0.2.0]: https://github.com/georgewrmarshall/monorepo-test/compare/@georgewrmarshall/design-tokens-test@0.1.0...@georgewrmarshall/design-tokens-test@0.2.0
-[0.1.0]: https://github.com/georgewrmarshall/monorepo-test/releases/tag/@georgewrmarshall/design-tokens-test@0.1.0
+[Unreleased]: https://github.com/georgewrmarshall/monorepo-synchronized-test/compare/@georgewrmarshall/design-tokens-test@8.0.0...HEAD
+[8.0.0]: https://github.com/georgewrmarshall/monorepo-synchronized-test/compare/@georgewrmarshall/design-tokens-test@0.5.0...@georgewrmarshall/design-tokens-test@8.0.0
+[0.5.0]: https://github.com/georgewrmarshall/monorepo-synchronized-test/compare/@georgewrmarshall/design-tokens-test@0.4.0...@georgewrmarshall/design-tokens-test@0.5.0
+[0.4.0]: https://github.com/georgewrmarshall/monorepo-synchronized-test/compare/@georgewrmarshall/design-tokens-test@0.2.0...@georgewrmarshall/design-tokens-test@0.4.0
+[0.2.0]: https://github.com/georgewrmarshall/monorepo-synchronized-test/compare/@georgewrmarshall/design-tokens-test@0.1.0...@georgewrmarshall/design-tokens-test@0.2.0
+[0.1.0]: https://github.com/georgewrmarshall/monorepo-synchronized-test/releases/tag/@georgewrmarshall/design-tokens-test@0.1.0
