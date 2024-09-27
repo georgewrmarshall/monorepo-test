@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Uncategorized
+
+- feat: brand evolution update to test alpha release
+- Update Release 6.0.0
+- Initialize Release 6.0.0
+- chore: adding changelog for app and fixing repo links
+
 ## [0.5.0]
 
 ### Added
@@ -31,7 +38,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Initial release of design tokens
 
-[Unreleased]: https://github.com/georgewrmarshall/monorepo-test/compare/@georgewrmarshall/design-tokens-test@0.4.0...HEAD
-[0.4.0]: https://github.com/georgewrmarshall/monorepo-test/compare/@georgewrmarshall/design-tokens-test@0.2.0...@georgewrmarshall/design-tokens-test@0.4.0
-[0.2.0]: https://github.com/georgewrmarshall/monorepo-test/compare/@georgewrmarshall/design-tokens-test@0.1.0...@georgewrmarshall/design-tokens-test@0.2.0
-[0.1.0]: https://github.com/georgewrmarshall/monorepo-test/releases/tag/@georgewrmarshall/design-tokens-test@0.1.0
+[Unreleased]: https://github.com/georgewrmarshall/monorepo-synchronized-test/compare/@georgewrmarshall/design-tokens-test@0.5.0...HEAD
+[0.5.0]: https://github.com/georgewrmarshall/monorepo-synchronized-test/compare/@georgewrmarshall/design-tokens-test@0.4.0...@georgewrmarshall/design-tokens-test@0.5.0
+[0.4.0]: https://github.com/georgewrmarshall/monorepo-synchronized-test/compare/@georgewrmarshall/design-tokens-test@0.2.0...@georgewrmarshall/design-tokens-test@0.4.0
+[0.2.0]: https://github.com/georgewrmarshall/monorepo-synchronized-test/compare/@georgewrmarshall/design-tokens-test@0.1.0...@georgewrmarshall/design-tokens-test@0.2.0
+[0.1.0]: https://github.com/georgewrmarshall/monorepo-synchronized-test/releases/tag/@georgewrmarshall/design-tokens-test@0.1.0
