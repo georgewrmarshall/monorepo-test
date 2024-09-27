@@ -7,7 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-### Uncategorized
+## [8.1.0]
+
+### Fixed
 
 - chore: fixing changelog to follow template and adding missing category
 
@@ -54,7 +56,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Initial release of ui
 
-[Unreleased]: https://github.com/georgewrmarshall/monorepo-synchronized-test/compare/@georgewrmarshall/ui-test@8.0.0...HEAD
+[Unreleased]: https://github.com/georgewrmarshall/monorepo-synchronized-test/compare/@georgewrmarshall/ui-test@8.1.0...HEAD
+[8.1.0]: https://github.com/georgewrmarshall/monorepo-synchronized-test/compare/@georgewrmarshall/ui-test@8.0.0...@georgewrmarshall/ui-test@8.1.0
 [8.0.0]: https://github.com/georgewrmarshall/monorepo-synchronized-test/compare/@georgewrmarshall/ui-test@0.2.3...@georgewrmarshall/ui-test@8.0.0
 [0.2.3]: https://github.com/georgewrmarshall/monorepo-synchronized-test/compare/@georgewrmarshall/ui-test@0.2.2...@georgewrmarshall/ui-test@0.2.3
 [0.2.2]: https://github.com/georgewrmarshall/monorepo-synchronized-test/compare/@georgewrmarshall/ui-test@0.2.1...@georgewrmarshall/ui-test@0.2.2

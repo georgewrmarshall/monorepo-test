@@ -1,6 +1,6 @@
 {
   "name": "@georgewrmarshall/app",
-  "version": "8.0.0",
+  "version": "8.1.0",
   "main": "index.js",
   "dependencies": {
     "@georgewrmarshall/ui-test": "workspace:^"
