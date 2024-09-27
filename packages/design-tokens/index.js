@@ -8,5 +8,6 @@ module.exports = {
     error: "#DC3545",
     success: "#28A745",
     warning: "#FFC107",
+    info: "#17A2B8",
   },
 };
